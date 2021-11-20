@@ -12,8 +12,8 @@
 			"configuration": {
 				"host": "host.docker.internal",
 				"port": "3306",
-				"database": "exo",
-				"url": "jdbc:mysql://host.docker.internal:3306/exo",
+				"database": "community",
+				"url": "jdbc:mysql://host.docker.internal:3306/community",
 				"type": "dev",
 				"properties": {
 					"allowPublicKeyRetrieval": "true"
