@@ -10,10 +10,10 @@
 			"show-system-objects": true,
 			"read-only": true,
 			"configuration": {
-				"host": "host.docker.internal",
+				"host": "mysql",
 				"port": "3306",
 				"database": "exo",
-				"url": "jdbc:mysql://host.docker.internal:3306/exo",
+				"url": "jdbc:mysql://mysql:3306/exo",
 				"type": "dev",
 				"properties": {
 					"allowPublicKeyRetrieval": "true"
